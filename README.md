@@ -36,21 +36,21 @@ You can join Beta Testing WhatsApp Group by invite link :
 
 <p align="center">
 
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
+  <a href="https://github.com/MuhammadAbdullah/QueenAmdi/fork">
     <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Forks&style=social">
     
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
+  <a href="https://github.com/MuhammadAbdullahJanjua/QueenAmdi/stargazers">
     <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
