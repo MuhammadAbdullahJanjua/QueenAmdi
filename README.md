@@ -25,10 +25,10 @@ You can join Beta Testing WhatsApp Group by invite link :
 ---
 </br>
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
@@ -101,7 +101,7 @@ HAVE A FUN!
 											<tr>
 												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
 												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://i.ibb.co/HzfN8pD/5-Joka.jpg" width="200" height="200" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
+                        <td><a href="httsp://github.com/MuhammadAbdullahJanjua/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
 											</tr>
 									</table>
                   <table>
