@@ -54,15 +54,15 @@ You can join Beta Testing WhatsApp Group by invite link :
     <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/MuhammadAbdullah/QueenAmdi">
     <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/MuhammadAbdullahJanjua/QueenAmdi">
     <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
 
   </a>
@@ -108,8 +108,8 @@ HAVE A FUN!
 										<tbody>
 											<tr>
 												<td><a href="https://www.thinknfree.com/"><img src="https://i.ibb.co/2kHWJBD/7-Zeus.jpg" width="200" height="200" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/x3MjnWn/8-Pancha.jpg" width="200" height="200" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/ySvhR4J/9-Saiko.jpg" width="200" height="200" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
+												<td><a href="httsp://github.com/MuhammadAbdullahJanjua/"><img src="https://i.ibb.co/x3MjnWn/8-Pancha.jpg" width="200" height="200" alt="ZEYREX"></a></td>
+												<td><a href="httsp://github.com/MuhammadAbdullah/"><img src="https://i.ibb.co/ySvhR4J/9-Saiko.jpg" width="200" height="200" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
 											</tr>
 										</tbody>
 									</table>
